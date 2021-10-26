@@ -20,6 +20,4 @@ You are able to edit the theme using your preferred code editor. There are limit
 ## Installing
 Download the theme file and move it into your [BetterDiscord](https://betterdiscord.app) themes folder:
 
-><a href="./FlyRobo_v1.theme.css" download>
-  FlyRobo_v1.theme.css
-</a>
+><a id="raw-url" href="https://raw.githubusercontent.com/FlyRobo/FlyRobo_v1/master/FlyRobo_v1.theme.css">Download FILE</a>
