@@ -1,7 +1,7 @@
 [release-badge]: https://img.shields.io/badge/Release-v1.0.0-blue
 [release-link]: https://github.com/FlyRobo/FlyRobo_v1/releases
 [discord-badge]: https://discord.com/api/guilds/843385308460351508/widget.png?style=shield
-[discord-link]: https://dsc.gg/warhammer_smp
+[discord-link]: https://discord.gg/vVCSPQv3fd
 
 <div align="center">
 
