@@ -10,7 +10,7 @@
 [![Releases][release-badge]][release-link]
 [![Discord Server][discord-badge]][discord-link]
 
-![v6 Sapphire](https://github.com/ClearVision/ClearVision-v6/raw/master/screenshots/6-stable.4.7.9.png)
+![v6 Sapphire](https://github.com/FlyRobo/FlyRobo_v1/blob/main/screenshots/FlyRobo%20Screen%20Shot.png)
 
 </div>
 
