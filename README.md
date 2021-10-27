@@ -10,7 +10,7 @@
 [![Releases][release-badge]][release-link]
 [![Discord Server][discord-badge]][discord-link]
 
-![v6 Sapphire](https://github.com/FlyRobo/FlyRobo_v1/blob/main/screenshots/FlyRobo_v1%20Screen%20Shot.png)
+![v1 FlyRobo](https://github.com/FlyRobo/FlyRobo_v1/blob/main/screenshots/FlyRobo_v1%20Screen%20Shot.png)
 
 </div>
 
