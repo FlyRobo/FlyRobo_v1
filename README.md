@@ -1,7 +1,7 @@
 [release-badge]: https://img.shields.io/badge/Release-v1.0.0-blue
 [release-link]: https://github.com/FlyRobo/FlyRobo_v1/releases
-[discord-badge]: https://discord.com/api/guilds/843385308460351508/widget.png?style=shield
-[discord-link]: https://discord.gg/vVCSPQv3fd
+[[Discord Server](https://img.shields.io/discord/948191551056658433.svg)]([https://disc](https://discord.gg/QU69cNqys6))
+[discord-link]: https://dsc.gg/conflict-smp
 
 <div align="center">
 
