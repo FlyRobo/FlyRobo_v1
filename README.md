@@ -1,14 +1,11 @@
 [release-badge]: https://img.shields.io/badge/Release-v1.0.0-blue
 [release-link]: https://github.com/FlyRobo/FlyRobo_v1/releases
-[Discord-server]: https://img.shields.io/discord/948191551056658433.svg
-[discord-link]: https://dsc.gg/conflict-smp
 
 <div align="center">
 
 # FlyRobo v1
 
 [![Releases][release-badge]][release-link]
-[![Discord Server][discord-badge]][discord-link]
 
 ![v1 FlyRobo](https://github.com/FlyRobo/FlyRobo_v1/blob/main/screenshots/FlyRobo_v1%20Screen%20Shot.png)
 
